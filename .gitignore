@@ -1,1 +1,7 @@
 driver_notes.txt
+*.o
+*.mod
+*.mod.*
+.*.*.*
+modules.order
+Module.symvers
