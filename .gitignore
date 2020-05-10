@@ -1,4 +1,5 @@
 driver_notes.txt
+*.ko
 *.o
 *.mod
 *.mod.*
